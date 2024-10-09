@@ -61,8 +61,7 @@ ENV OPENAI_API_KEY="" \
     SCARF_NO_ANALYTICS=true \
     DO_NOT_TRACK=true \
     ANONYMIZED_TELEMETRY=false
-    ENABLE_MODEL_FILTER=true
-    MODEL_FILTER_LIST=gpt-4o-mini;net-gpt-4o-mini;gpt-3.5-turb;net-gpt-3.5-turb;gpt-3.5-turbo-16k;net-gpt-3.5-turbo-16k;stable-diffusion-3-2b;stable-diffusion
+
 
 #### Other models #########################################################
 ## whisper TTS model settings ##
